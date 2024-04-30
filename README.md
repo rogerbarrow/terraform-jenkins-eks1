@@ -22,5 +22,7 @@
  * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/cbdbbbea-d8b0-426a-9a8a-d78f10d916bd)
 # Step 6 Create a Ec2 Instance 
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/e3af5b1e-1e26-4094-8be6-60e01daa0ceb)
+# Step 7 We install the Jenkins Server, Using the User Data 
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/9ce6f283-db72-4d6f-bf69-efbea709204b)
 
 
