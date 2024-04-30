@@ -15,4 +15,6 @@
 * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/691fae73-cde9-49ca-be42-548ea200f00b)
 * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/aa1cd97b-472d-4770-b7eb-b14c386e2f6a)
   ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/27e36a0d-0489-4f00-9bc8-8065d2954f5b)
+# Step 5 Create a security Group
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/c944afb5-fb47-4109-840f-751ba77a6571)
 
