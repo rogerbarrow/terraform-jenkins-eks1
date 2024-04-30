@@ -17,4 +17,6 @@
   ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/27e36a0d-0489-4f00-9bc8-8065d2954f5b)
 # Step 5 Create a security Group
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/c944afb5-fb47-4109-840f-751ba77a6571)
+ * We will need Port 8080 for the jenkins Server and port 22 for SSH
+ * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/f833c59b-9be4-48bc-a3ab-b0f7c3077ad2)
 
