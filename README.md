@@ -9,7 +9,7 @@
 # Step 3 We will create a VPC/ Security Group and a EC2
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/2e1258b8-2784-4658-9150-5a86feea571e)
 # Step 4 Run Terraform Commd
-* Terraform FNT
-* terraform init
+* terraform FNT
 * teffaform plan
+* terraform init
 * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/691fae73-cde9-49ca-be42-548ea200f00b)
