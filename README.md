@@ -20,5 +20,7 @@
  * We will need Port 8080 for the jenkins Server and port 22 for SSH
  * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/f833c59b-9be4-48bc-a3ab-b0f7c3077ad2)
  * ![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/cbdbbbea-d8b0-426a-9a8a-d78f10d916bd)
+# Step 6 Create a Ec2 Instance 
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks1/assets/46138186/e3af5b1e-1e26-4094-8be6-60e01daa0ceb)
 
 
